@@ -85,12 +85,12 @@ resdatadir = path_parent + '/resdata/' # Directory in which calibrated modelled 
 histdatadir = path_parent + '/histdata/' # Directory in which historical inflow time series are located
 figuredir = path_parent + '/figure/' # Directory in which saved figures are located
 #%% ============================ INPUT ========================================
-gcm_list = ['MPI-M-MPI-ESM-LR'] #,'ICHEC-EC-EARTH','CNRM-CERFACS-CNRM-CM5','MOHC-HadGEM2-ES', 'NCC-NorESM1-M'] # General Circulation Model
-rcm_list = ['RCA4'] #,'HIRHAM5'] # Regional Climate Model
+gcm_list = ['MPI-M-MPI-ESM-LR','ICHEC-EC-EARTH','CNRM-CERFACS-CNRM-CM5','MOHC-HadGEM2-ES', 'NCC-NorESM1-M'] # General Circulation Model
+rcm_list = ['RCA4','HIRHAM5'] # Regional Climate Model
 rcp_list = ['85'] #['26','45','85'] # Representative Concentration Pathways. To save time, it is possible to select only one rcp scenario, e.g. rcp_list = ['85']
 hydrotype = 'HDAM' # Type of hydropower plant (HDAM = reservoir, HROR = run-of-river, HPHS = pumped hydro, all = all three types included). So far only HDAM has been run, but executing the script "Atlite_inflow" can provide simulations for remaining types.
 WI = 0 # Wattsight + ENTSO-E historial data (1) or ENTSO-E only (0). The openly available historical data will only contain ENTSO-E. 
-matrix = 1 # Whether inflow 5x2 GCM-RCM matrix is created (1) or not (0). If 1, the script becomes considerably more time consuming.
+matrix = 0 # Whether inflow 5x2 GCM-RCM matrix is created (1) or not (0). If 1, the script becomes considerably more time consuming.
 #%% ============================= OUTPUT ======================================
 if WI == 1:    
     country_seasonal_plot = ['NO','FR','ES','SE','DE','CH','IT','AT'] # countries for which the seasonal profile is plotted
