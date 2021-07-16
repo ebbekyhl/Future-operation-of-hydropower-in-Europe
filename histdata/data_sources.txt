@@ -1,0 +1,15 @@
+Spain_1991_2019_monthly_timeseries.csv: https://www.ree.es/es/datos/publicaciones/series-estadisticas-nacionales
+energitilsig_Norge_1958_2017.csv: https://www.nve.no/
+Inflow_SE_1980-2019.csv: https://www.energiforetagen.se/
+Inflow_Austria_2016-2019: https://transparency.entsoe.eu/generation/r2/waterReservoirsAndHydroStoragePlants/
+Inflow_Bulgaria_2016-2019: https://transparency.entsoe.eu/generation/r2/waterReservoirsAndHydroStoragePlants/
+Inflow_France_2016-2019: https://transparency.entsoe.eu/generation/r2/waterReservoirsAndHydroStoragePlants/
+Inflow_Italy_2016-2019: https://transparency.entsoe.eu/generation/r2/waterReservoirsAndHydroStoragePlants/
+Inflow_Montenegro_2016-2019: https://transparency.entsoe.eu/generation/r2/waterReservoirsAndHydroStoragePlants/
+Inflow_Norway_2016-2019: https://transparency.entsoe.eu/generation/r2/waterReservoirsAndHydroStoragePlants/
+Inflow_Portugal_2016-2019: https://transparency.entsoe.eu/generation/r2/waterReservoirsAndHydroStoragePlants/
+Inflow_Romania_2016-2019: https://transparency.entsoe.eu/generation/r2/waterReservoirsAndHydroStoragePlants/
+Inflow_Serbia_2016-2019: https://transparency.entsoe.eu/generation/r2/waterReservoirsAndHydroStoragePlants/
+Inflow_Spain_2016-2019: https://transparency.entsoe.eu/generation/r2/waterReservoirsAndHydroStoragePlants/
+Inflow_Sweden_2016-2019: https://transparency.entsoe.eu/generation/r2/waterReservoirsAndHydroStoragePlants/
+Inflow_Switzerland_2016-2019: https://transparency.entsoe.eu/generation/r2/waterReservoirsAndHydroStoragePlants/
